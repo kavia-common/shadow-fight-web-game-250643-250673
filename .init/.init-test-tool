@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/shadow-fight-web-game-250643-250673/web_shadow_fight_frontend"
+}
